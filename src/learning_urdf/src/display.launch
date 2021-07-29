@@ -1,6 +1,6 @@
 <launch>
 
-  <arg name="model" default="$(find learning_urdf)/src/urdf/model.urdf"/>
+  <arg name="model" default="$(find learning_urdf)/src/urdf/model2.urdf"/>
   <arg name="gui" default="true" />
   <arg name="rvizconfig" default="$(find learning_urdf)/src/rviz/urdf.rviz" />
 
